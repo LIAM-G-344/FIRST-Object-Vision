@@ -7,12 +7,10 @@ Timeline:
   -Development deadline for all software
 
 **November 20th**
-  -Start building case
-  -OS image release (built on FIRST Raspberry Pi OS Image)
+  -OS image release (built on FIRST Raspberry Pi OS Image), start building case
 
 **November 30th**
-  -Documentation/user guide Release
-  -Case design release
+  -Documentation/user guide Release, case design release
 
 **January 10th**
   -Object detection training begins
